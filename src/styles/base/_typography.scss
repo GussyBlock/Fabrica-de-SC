@@ -1,0 +1,87 @@
+/*
+  Typography
+  ==========================================================================
+*/
+
+/* ----INCONSOLATA---- */
+// $typography80: "Inconsolata-Black";
+// $typography70: "Inconsolata-ExtraBold";
+// $typography60: "Inconsolata-Bold";
+// $typography50: "Inconsolata-SemiBold";
+// $typography40: "Inconsolata-Medium";
+// $typography30: "Inconsolata-Regular";
+// $typography20: "Inconsolata-Light";
+// $typography10: "Inconsolata-Extralight";
+
+// @font-face {
+//   font-family: $typography80;
+//   src: url("../fonts/Inconsolata/Inconsolata-Black.ttf");
+// }
+// @font-face {
+//   font-family: $typography70;
+//   src: url("../fonts/Inconsolata/Inconsolata-ExtraBold.ttf");
+// }
+// @font-face {
+//   font-family: $typography60;
+//   src: url("../fonts/Inconsolata/Inconsolata-Bold.ttf");
+// }
+// @font-face {
+//   font-family: $typography50;
+//   src: url("../fonts/Inconsolata/Inconsolata-SemiBold.ttf");
+// }
+// @font-face {
+//   font-family: $typography40;
+//   src: url("../fonts/Inconsolata/Inconsolata-Medium.ttf");
+// }
+// @font-face {
+//   font-family: $typography30;
+//   src: url("../fonts/Inconsolata/Inconsolata-Regular.ttf");
+// }
+// @font-face {
+//   font-family: $typography20;
+//   src: url("../fonts/Inconsolata/Inconsolata-Light.ttf");
+// }
+// @font-face {
+//   font-family: $typography10;
+//   src: url("../fonts/Inconsolata/Inconsolata-Extralight.ttf");
+// }
+
+/* ============================================= */
+
+/* ----INTER---- */
+$typography70: "Inter-ExtraBold";
+$typography60: "Inter-Bold";
+$typography50: "Inter-SemiBold";
+$typography40: "Inter-Medium";
+$typography30: "Inter-Regular";
+$typography20: "Inter-Light";
+$typography10: "Inter-Extralight";
+
+@font-face {
+  font-family: $typography70;
+  src: url("../fonts/Inter/Inter-ExtraBold.ttf");
+}
+@font-face {
+  font-family: $typography60;
+  src: url("../fonts/Inter/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: $typography50;
+  src: url("../fonts/Inter/Inter-SemiBold.ttf");
+}
+@font-face {
+  font-family: $typography40;
+  src: url("../fonts/Inter/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: $typography30;
+  src: url("../fonts/Inter/Inter-Regular.ttf");
+}
+@font-face {
+  font-family: $typography20;
+  src: url("../fonts/Inter/Inter-Light.ttf");
+}
+@font-face {
+  font-family: $typography10;
+  src: url("../fonts/Inter/Inter-Extralight.ttf");
+}
